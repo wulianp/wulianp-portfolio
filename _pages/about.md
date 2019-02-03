@@ -1,6 +1,6 @@
 ---
 title: "About"
-permalnk: "/about"
+permalnk: /about/
 header:
   images: "/images/about_pic.jpg"
 
