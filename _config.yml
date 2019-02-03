@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Phillip's Portfolio"
+title                    : "Site Title"
 title_separator          : "-"
-name                     : "Phillip Wu Liang"
-description              : "Computer Scientist Portfolio"
+name                     : "Your Name"
+description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,10 +106,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Phillip Wu Liang"
-  avatar           : #"/images/hewo_its_me.jpg"
-  bio              : "Keen interest in Machine Learning, Online Deception Prevention and Cyber-secuirity"
-  location         : "Seattle Wa"
+  name             : "Your Name"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I am an amazing person."
+  location         : "Somewhere"
   email            :
   links:
     - label: "Email"
@@ -293,10 +293,3 @@ defaults:
       comments: # true
       share: true
       related: true
-#_posts
-- scope:
-  path : ""
-  types: pages
-values:
-  layout: single
-  author_profile : true
