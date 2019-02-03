@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Phillip Wu Liang"
-  avatar           :"/images/hewo_its_me.JPG"
+  avatar           : "/images/hewo_its_me.jpg"
   bio              : "Keen interest in Machine Learning, Online Deception Prevention and Cyber-secuirity  "
   location         : "Seattle Wa"
   email            :
