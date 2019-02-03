@@ -295,7 +295,7 @@ defaults:
       related: true
 #_posts
 - scope:
-  path:""
+  path : ""
   types: pages
 values:
   layout: single
