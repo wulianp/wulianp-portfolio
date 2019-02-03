@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "My Project"
 date: 2019-02-03
 tags: [computer science, ect]
