@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Phillip Wu Liang"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           :"/images/hewo_its_me.JPG"
   bio              : "Keen interest in Machine Learning, Online Deception Prevention and Cyber-secuirity  "
   location         : "Seattle Wa"
   email            :
