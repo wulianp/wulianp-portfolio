@@ -2,7 +2,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Testing Project post"
+  - title: "Testing Project post!"
     url: /projects/
     
   # - title: "About"

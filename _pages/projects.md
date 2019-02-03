@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: "pages"
 permalnk: "/projects/"
 title: "My Projects"
 author_profile: true
