@@ -297,5 +297,6 @@ defaults:
   - scope:
       path : ""
       types: pages
-      values:
+    values:
       layout: single
+      author_profile: true
